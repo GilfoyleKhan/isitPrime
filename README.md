@@ -1,3 +1,5 @@
+This program is written in python.
+
 Usually,we test prime number by mod(divide to get the remainder) the number by the previous number.
 Example:
         5%2==1
